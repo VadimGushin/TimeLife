@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="c5046581-3ec8-4abd-ad78-02aa6a0216af"
+    Name="33143aa7-ba75-4583-89d8-8c0d37e231e9"
     Publisher="CN=Anuitex"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="c5046581-3ec8-4abd-ad78-02aa6a0216af" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="33143aa7-ba75-4583-89d8-8c0d37e231e9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>TimeLife.UWP</DisplayName>
